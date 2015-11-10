@@ -1,4 +1,8 @@
 Add your name below:
 ---
+<<<<<<< HEAD
 
 Scott Aldort
+=======
+Anna Whitney
+>>>>>>> 9bfcc403b820443432691cd333b14a4c1808881f
