@@ -8,3 +8,5 @@ Wiretronic
 Sweden
 Trollhattan
 Programming
+Robotics
+Adding a feature
